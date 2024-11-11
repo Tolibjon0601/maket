@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.otp-input {
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color: #e5e5e5;
+}
+
+@font-face {
+  font-family: " Roboto ", sans-serif;
+  src: url("./assets/fonts/Roboto-Black.ttf");
+}
+
+
+
+.ant-menu-item:hover {
+  background-color: #fca311 !important;
+}
